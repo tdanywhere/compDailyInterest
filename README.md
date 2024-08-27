@@ -51,5 +51,16 @@
 ## Contact
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- TEST AREA -->
+## Test Area
+
+| Linksbündig | Zentriert | Rechtsbündig |
+| :-------- | :--------: | --------: |
+| *Italic*   | **Bold**   | Standard   |
+| Inhalt   | Inhalt   | Inhalt   |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
