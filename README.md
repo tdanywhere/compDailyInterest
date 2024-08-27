@@ -1,7 +1,7 @@
 <!-- Template See: [https://github.com/othneildrew/Best-README-Template/pull/73](https://github.com/othneildrew/Best-README-Template/blob/main/README.md?plain=1) -->
 <a id="readme-top"></a>
 <!-- ADD THE HOYER LOGO -->
-<div align="center">
+<div align="right">
   <a>
     <img src="img/hoyer_group.png" alt="Logo" width="220" height="80">
   </a>
@@ -9,7 +9,7 @@
 
 
 <!-- WELCOME AREA -->
-# Welcome to the Source Code Management of HOYER Vista!
+# Welcome to the HOYER Vista Github!
 #### Release under construction: 53-90-25
 
 <br />
