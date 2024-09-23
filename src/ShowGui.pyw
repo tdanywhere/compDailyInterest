@@ -9,7 +9,6 @@ Compute the daily interest for a given principal and annual interest rate.
 :param annual_rate: The annual interest rate (as a percentage)
 :return: The daily interest amount
 """
-# Example usage
 principal_amount = 1000  # Example principal amount
 annual_interest_rate = 2.75  # Example annual interest rate in percentage
 
@@ -20,6 +19,7 @@ def compute_daily_interest(principal, annual_rate):
     
     # Calculate daily interest
     daily_interest = principal * daily_rate
+# Example usage
     
     return daily_interest
 
